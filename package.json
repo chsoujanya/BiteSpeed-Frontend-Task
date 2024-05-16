@@ -1,4 +1,5 @@
 {
+  "homepage": "https://chsoujanya.github.io/BiteSpeed-Frontend-Task",
   "name": "chatbot-using-react-flow",
   "private": true,
   "version": "0.0.0",
@@ -7,8 +8,10 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "vite build && gh-pages -d dist"
   },
+  
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
