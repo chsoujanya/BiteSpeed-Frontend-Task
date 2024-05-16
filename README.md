@@ -1,4 +1,4 @@
-Project Link: # https://chsoujanya.github.io/BiteSpeed-Frontend-Task/
+Live project Link: # https://chsoujanya.github.io/BiteSpeed-Frontend-Task/
 
 # React + Vite
 
